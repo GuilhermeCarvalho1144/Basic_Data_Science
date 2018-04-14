@@ -1,5 +1,5 @@
 #==============================================================================
-# THIS CODE IS A BASIC TEMPLETE TO LOADING A FILE IN PANDAS
+# THIS CODE IS A BASIC TEMPLETE TO LOAD A FILE IN PANDAS
 # AUTHOR : GUILHERME CARVALHO PEREIRA
 # SOURCE: DEEP LEARNING PREREQUISITES: THE NUMPY STACK IN PYTHON...UDEMY COURSE
 #==============================================================================
